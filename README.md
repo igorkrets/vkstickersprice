@@ -1,5 +1,5 @@
 # vkstickersprice
-![alt text](https://github.com/igorkrets/vkstickersprice/blob/master/screen.png?raw=true)
+![alt text](https://github.com/igorkrets/vkstickersprice/blob/master/screen2.png?raw=true)
 
 Подсчитать сумму за все стикеры Вконтакте.
 Открыть страницу стикеров
